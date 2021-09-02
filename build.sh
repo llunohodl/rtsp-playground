@@ -1,4 +1,8 @@
+echo
+echo build  ========================================
+echo 
+
 mkdir ./build
 cd ./build
 cmake ../ 
-make -j4 all
+make -j$(nproc) all

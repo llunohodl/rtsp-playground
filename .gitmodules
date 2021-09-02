@@ -1,0 +1,4 @@
+[submodule "external/x264"]
+	path = external/x264
+	url = https://code.videolan.org/videolan/x264.git
+	branch = stable

@@ -7,7 +7,7 @@ echo x264: configure ===============================
 echo 
 cd ./external/x264
 ./configure  --enable-static --enable-pic \
---prefix=../../lib/x264
+--prefix=../../lib
 
 echo 
 echo x264: build ===================================

@@ -2,3 +2,6 @@
 	path = external/x264
 	url = https://code.videolan.org/videolan/x264.git
 	branch = stable
+[submodule "external/FFmpeg"]
+	path = external/FFmpeg
+	url = https://github.com/FFmpeg/FFmpeg
